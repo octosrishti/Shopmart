@@ -1,1 +1,1 @@
-# Shopmart
+# Shopsmart
